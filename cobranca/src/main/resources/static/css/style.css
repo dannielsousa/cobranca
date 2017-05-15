@@ -1,0 +1,8 @@
+.navbar { height: 110px; }
+.navbar img { float: left; }
+.navbar span { float: left; margin: 25px 0 0 15px;}
+.panel-default { margin: 0 10px; }
+.alert { margin: 10px 10px; }
+.titulo-panel { float: left; padding: 2px 0 }
+.link-panel { float: right;  padding: 0}
+.glyphicon:first-child{ margin-right: 10px; }
